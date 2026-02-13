@@ -1,12 +1,14 @@
 # 💫 Hi, I'm Raushan Raj 👋  
 
 ## ✍️ About Me
-🎓 Computer Science Engineering student @ SVSU, Meerut  
-🐍 Python Developer | 📊 Data Analyst  |☁️ Cloud Engineer (Azure)
-🤝 Actively looking for internship and entry-level opportunities  
-🌱 Currently learning advanced Data Analytics & Cloud Automation  
-💬 Ask me about Cloud, Python, Automation, or Data Analysis  
-⚡ Fun fact: AI won’t replace jobs — it creates smarter work  
+
+🎓 Computer Science Engineering student @ SVSU, Meerut<br>
+🐍 Python Developer | 📊 Data Analyst | ☁️ Cloud Engineer (Azure)<br>
+🤝 Actively looking for internship and entry-level opportunities<br>
+🌱 Currently learning advanced Data Analytics & Cloud Automation<br>
+💬 Ask me about Cloud, Python, Automation, or Data Analysis<br>
+⚡ Fun fact: AI won’t replace jobs — it creates smarter work
+
 
 ---
 
