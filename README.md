@@ -2,7 +2,7 @@
 
 ## ✍️ About Me
 🎓 Computer Science Engineering student @ SVSU, Meerut  
-☁️ Cloud Engineer (Azure) | 🐍 Python Developer | 📊 Data Analyst  
+🐍 Python Developer | 📊 Data Analyst  | ☁️ Cloud Engineer (Azure)
 🤝 Actively looking for internship and entry-level opportunities  
 🌱 Currently learning advanced Data Analytics & Cloud Automation  
 💬 Ask me about Cloud, Python, Automation, or Data Analysis  
