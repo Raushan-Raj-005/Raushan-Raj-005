@@ -61,16 +61,15 @@
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
 
 ---
-
 ## 📊 GitHub Stats
-![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raushan-Raj-005&show_icons=true&theme=tokyonight)
+![Raushan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Raushan-Raj-005&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raushan-Raj-005&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raushan-Raj-005&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Raushan-Raj-005&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Raushan-Raj-005&theme=radical&margin-w=10&margin-h=10)
 
 ---
 
