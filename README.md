@@ -60,18 +60,22 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
 
-
-
 ---
 
 ## 📊 GitHub Stats
-![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raushan-Raj-005&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raushan-Raj-005&layout=compact&theme=dark)
+![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raushan-Raj-005&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raushan-Raj-005&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Raushan-Raj-005&theme=radical&no-frame=false&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Raushan-Raj-005&theme=radical)
+
+---
+
+## 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=Raushan-Raj-005&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -80,10 +84,6 @@
 
 ---
 
-## 👀 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=Raushan-Raj-005&icon=0&color=0)
-
----
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
